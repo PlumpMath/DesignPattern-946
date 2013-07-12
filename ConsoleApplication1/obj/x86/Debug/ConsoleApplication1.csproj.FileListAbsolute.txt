@@ -1,0 +1,7 @@
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\bin\Debug\DesignPattern.dll
+C:\Users\mbsuser2\Desktop\DesignPattern\ConsoleApplication1\ConsoleApplication1\bin\Debug\DesignPattern.pdb
